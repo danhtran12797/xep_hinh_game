@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Game Xếp Hình</string>
+
+    <string-array name="list">
+        <item>chim1</item>
+        <item>chim2</item>
+        <item>chim3</item>
+        <item>chim4</item>
+        <item>chim5</item>
+        <item>chim6</item>
+        <item>chim7</item>
+        <item>chim8</item>
+        <item>chim9</item>
+        <item>chim10</item>
+        <item>chim11</item>
+        <item>chim12</item>
+        <item>chim13</item>
+        <item>chim14</item>
+        <item>chim15</item>
+        <item>chim16</item>
+        <item>chim17</item>
+        <item>chim18</item>
+    </string-array>
+</resources>

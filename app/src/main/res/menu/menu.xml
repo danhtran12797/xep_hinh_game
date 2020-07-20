@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="reload"
+        android:icon="@drawable/ic_refresh_blu"
+        app:showAsAction="always"
+        android:id="@+id/menu_game10_reload" />
+    <item android:id="@+id/menu_game10_media"
+        android:title="media"
+        android:icon="@drawable/ic_perm_media_black"
+        app:showAsAction="always"/>
+</menu>
